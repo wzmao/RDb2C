@@ -13,10 +13,10 @@
 
 |    | BetaSheet916 | BetaSheet1452|
 |----|------|----|
-|CCMpred-DeepCNF | [GitHub](), [Lab website]()  | [GitHub](), [Lab website]()|
-|CCMpred-DSSP | [GitHub](), [Lab website]()  | [GitHub](), [Lab website]()|
-|RaptorX-Contact-DeepCNF | [GitHub](), [Lab website]()  | |
-|RaptorX-Contact-DSSP | [GitHub](), [Lab website]()  | |
+|CCMpred-DeepCNF | [GitHub](https://github.com/wzmao/RDb2C/blob/master/Data/916-CCMpred-DeepCNF.7z?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/916-CCMpred-DeepCNF.7z "Lab website")  | [GitHub](https://github.com/wzmao/RDb2C/blob/master/Data/1452-CCMpred-DeepCNF.7z?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/1452-CCMpred-DeepCNF.7z "Lab website")|
+|CCMpred-DSSP | [GitHub](https://github.com/wzmao/RDb2C/blob/master/Data/916-CCMpred-DSSP.7z?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/916-CCMpred-DSSP.7z "Lab website")  | [GitHub](https://github.com/wzmao/RDb2C/blob/master/Data/1452-CCMpred-DSSP.7z?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/1452-CCMpred-DSSP.7z "Lab website")|
+|RaptorX-Contact-DeepCNF | [GitHub](https://github.com/wzmao/RDb2C/blob/master/Data/916-RaptorX-DeepCNF.7z?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/916-RaptorX-DeepCNF.7z "Lab website")  | |
+|RaptorX-Contact-DSSP | [GitHub](https://github.com/wzmao/RDb2C/blob/master/Data/916-RaptorX-DSSP.7z?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/916-RaptorX-DSSP.7z "Lab website")  | |
 ## Training Script
   We provide the training script for any contact map prediction algorithm, see the README file for detail information.
 
