@@ -20,7 +20,7 @@
 ## Training Script
   We provide the training script for any contact map prediction algorithm, see the README file for detail information.
 
-  [GitHub](), [Lab website]()
+  [GitHub](https://github.com/wzmao/RDb2C/blob/master/RDb2C_Train.tar.gz?raw=true "GitHub"), [Lab website](http://166.111.152.91/Downloads/RDb2C/RDb2C_Train.tar.gz "Lab website")
 <!-- ## Cite Us
   Please cite us as following:
   > ... -->
